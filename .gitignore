@@ -1,0 +1,22 @@
+/target
+
+# Local database and exports
+*.db
+*.sqlite
+*.sqlite3
+*.log
+exports/
+
+# Environment files
+.env
+.env.*
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
